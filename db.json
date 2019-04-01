@@ -22,7 +22,7 @@
   },
   "juke_components": [
     {
-      "juke_id": 1,
+      "id": 1,
       "components": [
         {
           "name": "audio"
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "juke_id": 2,
+      "id": 2,
       "components": [
         {
           "name": "pcb"
