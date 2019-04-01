@@ -20,12 +20,17 @@
       }
     ]
   },
-  "components": [
+  "juke_components": [
     {
-      "name": "audio"
-    },
-    {
-      "name": "LED array"
+      "id": 1,
+      "components": [
+        {
+          "name": "audio"
+        },
+        {
+          "name": "LED array"
+        }
+      ]
     }
   ]
 }
