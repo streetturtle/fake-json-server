@@ -1,0 +1,29 @@
+{
+  "settings": [
+    {
+      "name": "Mixer",
+      "requires": [
+        "audio",
+        "pcb"
+      ]
+    },
+    {
+      "name": "AttractLoop",
+      "requires": []
+    },
+    {
+      "name": "Volume",
+      "requires": [
+        "audio"
+      ]
+    }
+  ],
+  "components": [
+    {
+      "name": "audio"
+    },
+    {
+      "name": "LED array"
+    }
+  ]
+}
