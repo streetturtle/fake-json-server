@@ -22,13 +22,21 @@
   },
   "juke_components": [
     {
-      "id": 1,
+      "juke_id": 1,
       "components": [
         {
           "name": "audio"
         },
         {
           "name": "LED array"
+        }
+      ]
+    },
+    {
+      "juke_id": 2,
+      "components": [
+        {
+          "name": "pcb"
         }
       ]
     }
