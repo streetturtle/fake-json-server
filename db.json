@@ -1,23 +1,25 @@
 {
-  "settings": {"settings": [
-    {
-      "name": "Mixer",
-      "requires": [
-        "audio",
-        "pcb"
-      ]
-    },
-    {
-      "name": "AttractLoop",
-      "requires": []
-    },
-    {
-      "name": "Volume",
-      "requires": [
-        "audio"
-      ]
-    }
-  ]},
+  "settings": {
+    "settings": [
+      {
+        "name": "Mixer",
+        "requires": [
+          "audio",
+          "pcb"
+        ]
+      },
+      {
+        "name": "AttractLoop",
+        "requires": []
+      },
+      {
+        "name": "Volume",
+        "requires": [
+          "audio"
+        ]
+      }
+    ]
+  },
   "components": [
     {
       "name": "audio"
