@@ -1,5 +1,5 @@
 {
-  "settings": [
+  "settings": {"settings": [
     {
       "name": "Mixer",
       "requires": [
@@ -17,7 +17,7 @@
         "audio"
       ]
     }
-  ],
+  ]},
   "components": [
     {
       "name": "audio"
