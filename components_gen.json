@@ -1,0 +1,12 @@
+[
+  {
+    'repeat(100)': {
+      id: '{{objectId()}}',
+      components: [{
+        'repeat(0,5)': {
+          name: '{{random("money_receiver","money_storage","money_pcb","led_matrix","led_panel","touchscreen","speaker","pcb","camera","amplifier")}}'
+        }}
+      ],
+    }
+  }
+]

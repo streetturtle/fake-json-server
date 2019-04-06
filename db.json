@@ -2,74 +2,2017 @@
   "juke_settings": {
     "juke_settings": [
       {
-        "name": "Mixer",
+        "name": "9311d512-c721-47e7-a83c-843a73a63376",
         "requires": [
-          "audio",
+          "amplifier",
+          "camera",
+          "speaker",
+          "led_panel",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "3b348d00-cc0f-470b-be05-2e15e8037cfb",
+        "requires": [
+          "money_pcb",
+          "speaker",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "95efa532-c6ca-4dec-8563-458eb85096e3",
+        "requires": []
+      },
+      {
+        "name": "419c07d2-65b3-4b07-ae1a-16342e40d7d0",
+        "requires": [
+          "money_pcb",
+          "amplifier",
+          "touchscreen",
+          "money_storage",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "8cab0cf2-05cb-4dc9-b64d-f8da21139445",
+        "requires": [
+          "money_storage",
+          "money_pcb",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "ff99c839-f915-4554-b132-0530dfee4a12",
+        "requires": [
+          "speaker",
+          "speaker",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "ea006f2a-0526-4a52-acde-e3c4b6d2d13e",
+        "requires": [
+          "speaker",
+          "money_pcb",
+          "speaker"
+        ]
+      },
+      {
+        "name": "d3414bcf-b599-4226-8eb8-098a46425c69",
+        "requires": [
+          "touchscreen",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "5de91374-a8cc-48dd-9ee6-b28abd7ea7e0",
+        "requires": [
+          "money_receiver"
+        ]
+      },
+      {
+        "name": "39e523bb-cd3f-47b8-9fd0-80718e3009f0",
+        "requires": [
+          "money_pcb",
+          "money_storage",
+          "led_matrix",
           "pcb"
         ]
       },
       {
-        "name": "AttractLoop",
-        "requires": []
-      },
-      {
-        "name": "Volume",
+        "name": "4b36432f-4773-4d9c-b9cb-03ebb2b4be63",
         "requires": [
-          "audio"
+          "led_panel",
+          "amplifier",
+          "camera"
         ]
       },
       {
-        "name": "Currency",
+        "name": "d81177e1-9caa-4c49-83c9-221c399c368e",
+        "requires": []
+      },
+      {
+        "name": "f8fe29e7-6988-4d5a-a7be-a543340bfb26",
+        "requires": [
+          "led_matrix",
+          "led_panel",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "c249f609-c05e-4736-979f-f0df0b88c75c",
+        "requires": []
+      },
+      {
+        "name": "ea9fc669-0a83-441f-ae99-43f05466e3bc",
+        "requires": [
+          "pcb",
+          "amplifier",
+          "pcb",
+          "led_matrix",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "a6bfa6c2-3e1a-4270-aa4b-12c14f05ed34",
+        "requires": [
+          "amplifier",
+          "led_matrix",
+          "pcb",
+          "speaker",
+          "camera"
+        ]
+      },
+      {
+        "name": "68b48d1b-d0d5-4d3e-963e-baaadcd8c03d",
+        "requires": []
+      },
+      {
+        "name": "dc350c85-1c4d-4e8f-92b0-00b581fbffb4",
+        "requires": []
+      },
+      {
+        "name": "5a67906e-25ad-4051-90e2-024dcb64d7fc",
+        "requires": [
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "49b6e036-e160-4078-8785-b5e7747d7014",
+        "requires": [
+          "pcb"
+        ]
+      },
+      {
+        "name": "28923b56-c509-49be-93e0-4e419f0731f1",
+        "requires": [
+          "pcb",
+          "camera"
+        ]
+      },
+      {
+        "name": "c392317f-e360-43d0-8b57-47b5e3c4ee53",
+        "requires": []
+      },
+      {
+        "name": "24a4f178-ebe3-4370-b004-5ef52129f596",
+        "requires": [
+          "camera",
+          "camera",
+          "money_receiver",
+          "touchscreen",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "1fca6251-0fb5-429e-aa95-1285b1e89ad3",
+        "requires": []
+      },
+      {
+        "name": "af3f75d1-c7f5-47fc-8665-a78ccab82c2c",
+        "requires": []
+      },
+      {
+        "name": "df5c3f5e-82f8-4668-8776-06ad64f671eb",
+        "requires": [
+          "led_matrix",
+          "touchscreen",
+          "money_receiver",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "c87375de-4c6a-475c-a632-cd18c38b0911",
+        "requires": [
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "6dcfc4f5-4619-4870-9310-d253333fd79f",
+        "requires": [
+          "led_panel",
+          "money_storage",
+          "money_storage",
+          "led_panel",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "2e682345-f05d-4930-96b6-1734f7686e0f",
+        "requires": [
+          "speaker",
+          "led_matrix",
+          "amplifier",
+          "amplifier",
+          "speaker"
+        ]
+      },
+      {
+        "name": "5040ae96-7170-44f7-b4df-bb33ba38012f",
+        "requires": [
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "113c99d0-4481-47f9-a78d-204a9f5799f9",
+        "requires": [
+          "amplifier"
+        ]
+      },
+      {
+        "name": "de133d09-b949-4eb1-8af9-d8a68ca0ae80",
+        "requires": [
+          "led_matrix",
+          "money_storage",
+          "amplifier",
+          "speaker",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "8debb378-373f-40b1-84f6-401d600c17f4",
+        "requires": [
+          "pcb",
+          "money_receiver",
+          "money_receiver"
+        ]
+      },
+      {
+        "name": "6dce9bfa-3ede-4b5b-bb9c-5dee758239e5",
+        "requires": []
+      },
+      {
+        "name": "86f37277-65ed-4b2e-8dd8-06e3b7dde49d",
+        "requires": [
+          "pcb",
+          "led_panel",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "d2738064-fc45-4386-8b93-2215be445115",
+        "requires": [
+          "money_pcb",
+          "money_storage",
+          "touchscreen",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "aa6a731e-f214-47d5-8874-28cae28e5c1f",
+        "requires": [
+          "led_panel",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "4f341f56-ef98-4950-a6b5-c767fc67b347",
+        "requires": [
+          "money_receiver",
+          "money_receiver",
+          "led_panel",
+          "camera"
+        ]
+      },
+      {
+        "name": "4ecbf409-18b8-4ec1-b2c6-1560f3c6a673",
+        "requires": [
+          "amplifier",
+          "money_receiver"
+        ]
+      },
+      {
+        "name": "d8ddaebb-c9db-427d-b5dd-cb7009839e00",
+        "requires": [
+          "led_panel",
+          "pcb",
+          "money_storage",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "e647b6eb-924c-4942-b363-6a274f99e9cf",
+        "requires": [
+          "money_receiver",
+          "camera",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "aa74aba7-ea03-4f17-bfcd-fbee9ce5e2b2",
+        "requires": []
+      },
+      {
+        "name": "84bc11cd-de36-4264-ad28-1a87d26c37c8",
+        "requires": [
+          "led_matrix",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "3af7d869-93db-48ae-8794-54f9e3188d63",
+        "requires": [
+          "amplifier",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "b64bc1e4-9427-4ead-b50b-02014bd773d2",
+        "requires": [
+          "amplifier"
+        ]
+      },
+      {
+        "name": "4b1cc308-98f5-45ef-88e6-42205a5944fe",
+        "requires": []
+      },
+      {
+        "name": "0182fe24-23dd-4f33-b4cd-e6d10c4e9424",
+        "requires": [
+          "money_receiver",
+          "money_pcb",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "017333ac-b82a-4f36-ae3f-8fcbf317418f",
+        "requires": [
+          "led_panel",
+          "led_matrix",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "04fe1676-d682-4127-8aa8-6f6557ff150a",
+        "requires": [
+          "amplifier",
+          "camera",
+          "amplifier",
+          "touchscreen",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "0b12633e-7448-4ab6-94c7-561fb51415f9",
+        "requires": [
+          "pcb",
+          "money_pcb",
+          "led_matrix",
+          "pcb",
+          "pcb"
+        ]
+      },
+      {
+        "name": "e8fe8dd5-a620-4c85-9e24-7563a127d2ca",
+        "requires": [
+          "money_receiver",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "f19e1032-5c71-45ac-bf76-b3451104de7e",
+        "requires": [
+          "money_receiver",
+          "pcb"
+        ]
+      },
+      {
+        "name": "948247b8-2ead-4b52-b23f-d359e74f62f0",
+        "requires": [
+          "led_panel",
+          "money_storage",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "f25187b7-8ce7-4167-a0d0-00496d876c11",
+        "requires": [
+          "led_matrix",
+          "camera",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "5f6c8987-a5e7-4e73-aa29-1e9cb8b23d97",
+        "requires": [
+          "speaker",
+          "money_storage",
+          "speaker",
+          "money_receiver",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "bfc3911f-f618-4966-a0bc-01ae342f350e",
+        "requires": [
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "0282daba-bd07-486a-a5f9-14b7efc93efe",
+        "requires": [
+          "led_matrix",
+          "led_matrix",
+          "money_receiver",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "95e4fad3-2fa6-4048-9b3f-422d280b6302",
+        "requires": [
+          "money_receiver",
+          "money_storage",
+          "camera"
+        ]
+      },
+      {
+        "name": "6cf424d7-7c43-4843-99b9-0593f86d74ac",
+        "requires": [
+          "led_matrix",
+          "money_storage",
+          "led_matrix",
+          "money_storage",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "112ce6ea-7441-4318-afd9-94724e5ccc8a",
+        "requires": [
+          "money_pcb",
+          "money_storage",
+          "led_matrix",
+          "led_panel",
+          "pcb"
+        ]
+      },
+      {
+        "name": "223e988b-cf4b-499e-9e1a-41e4c2510b4f",
+        "requires": [
+          "money_pcb",
+          "pcb"
+        ]
+      },
+      {
+        "name": "b7c64f32-22b0-4f40-8524-a1454387d711",
+        "requires": [
+          "touchscreen",
+          "led_matrix",
+          "touchscreen",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "a4ef41b0-07cf-4d5e-a07d-6acdb25dcffb",
+        "requires": [
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "fdffbc26-b943-424c-9be7-69fa9a486ba3",
+        "requires": []
+      },
+      {
+        "name": "932b71ce-54bb-44d2-996a-b7e5e2333608",
+        "requires": [
+          "camera",
+          "money_storage",
+          "money_receiver",
+          "speaker"
+        ]
+      },
+      {
+        "name": "f30b9085-22f0-425f-9c54-450ea52fb171",
+        "requires": []
+      },
+      {
+        "name": "6b986dfa-06d1-44f9-bd18-f055c6944075",
+        "requires": [
+          "touchscreen",
+          "pcb",
+          "money_storage",
+          "money_pcb",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "a61c1bd7-9bce-4d3f-877c-0ab5f6441bdd",
+        "requires": [
+          "money_storage",
+          "money_receiver",
+          "camera",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "d6747e32-09cb-40f6-9f98-d43fe2da633b",
+        "requires": []
+      },
+      {
+        "name": "6d811b31-e77f-4d7d-9186-eba8ae10d7eb",
+        "requires": [
+          "pcb",
+          "amplifier",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "e7e1ae14-c899-4c4d-9681-e1e95aac42fd",
+        "requires": [
+          "money_pcb",
+          "pcb",
+          "money_storage",
+          "touchscreen",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "85312848-d6a5-4ab0-9ba5-6116554919ac",
+        "requires": [
+          "money_receiver",
+          "amplifier",
+          "money_pcb",
+          "camera"
+        ]
+      },
+      {
+        "name": "6c2821c3-f664-4e64-b131-2a8a9ef6446e",
+        "requires": [
+          "camera",
+          "pcb",
+          "money_receiver",
+          "led_panel",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "bd0ecd11-0fb8-40ff-8a28-9a7d780b8936",
+        "requires": [
+          "money_pcb",
+          "money_pcb",
+          "led_matrix",
+          "speaker",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "86a8fa20-a7ed-4ec1-b088-57fd1836f17d",
+        "requires": [
+          "pcb",
+          "touchscreen",
+          "speaker"
+        ]
+      },
+      {
+        "name": "14fbcf69-1fcf-49de-ba57-f53b4b030a2d",
+        "requires": [
+          "speaker",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "fb24e7e6-e349-481c-9853-3ff7b6dd85ba",
+        "requires": []
+      },
+      {
+        "name": "11913951-fb46-4974-951f-7fe93711eb17",
+        "requires": [
+          "pcb",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "f0e33298-c0eb-4f12-abad-3609665016b8",
+        "requires": [
+          "money_pcb",
+          "pcb",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "6e1703dc-b804-48d4-9316-b2f0f63b788e",
+        "requires": [
+          "money_receiver",
+          "led_panel",
+          "led_panel",
+          "camera",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "4277523f-5314-48b0-a195-7d45ac85e85c",
+        "requires": [
+          "touchscreen",
+          "led_panel",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "7a1baf6c-8971-462b-9104-0a6d9420d11a",
+        "requires": []
+      },
+      {
+        "name": "251f60dd-f0d8-418c-be42-deb39b1cd82f",
+        "requires": [
+          "money_pcb",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "5f8ba004-f6b6-4643-8c67-e3d80fc8f4fe",
+        "requires": [
+          "money_receiver",
+          "camera",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "4e13a270-ff3a-4bb9-9d18-9758d32a17f3",
+        "requires": [
+          "pcb",
+          "led_matrix"
+        ]
+      },
+      {
+        "name": "c5403183-c43a-455c-87bc-e4ec3d9a18dc",
+        "requires": [
+          "camera",
+          "speaker",
+          "pcb",
+          "led_panel",
+          "speaker"
+        ]
+      },
+      {
+        "name": "9100f312-6b43-4664-8a7d-cc54f4dd2f20",
+        "requires": [
+          "money_storage"
+        ]
+      },
+      {
+        "name": "1de829b0-ce09-4630-9001-53478abb0dbf",
+        "requires": [
+          "money_pcb",
+          "speaker",
+          "money_storage",
+          "money_receiver"
+        ]
+      },
+      {
+        "name": "e45b28ea-df9f-41f0-b139-b8c7c2b02518",
+        "requires": [
+          "led_matrix",
+          "money_storage",
+          "camera",
+          "camera",
+          "money_storage"
+        ]
+      },
+      {
+        "name": "81b5cc53-8e2d-4760-9555-5c68210c3a33",
+        "requires": [
+          "camera",
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "74ea1992-6e75-4cd7-b424-ed46d3b175be",
+        "requires": [
+          "pcb",
+          "money_pcb"
+        ]
+      },
+      {
+        "name": "2ccebf10-b96c-46e4-a706-76ea9f4a5602",
         "requires": [
           "money_receiver"
+        ]
+      },
+      {
+        "name": "ea866fd2-d8d0-43a2-b5a9-02ea287d7dfb",
+        "requires": [
+          "speaker",
+          "touchscreen",
+          "led_matrix",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "1c8e723f-9ef7-4922-8e5a-ad710e69d095",
+        "requires": []
+      },
+      {
+        "name": "9e86b434-1473-4fa8-95ed-e4e9270fca23",
+        "requires": []
+      },
+      {
+        "name": "32fc8640-075f-4b55-96f6-0be1ae607f77",
+        "requires": [
+          "money_storage",
+          "money_pcb",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "01a05fee-3719-413b-bf05-c5c024752cf6",
+        "requires": [
+          "pcb",
+          "led_matrix",
+          "led_panel"
+        ]
+      },
+      {
+        "name": "bf17f50d-0904-4ffc-a591-00368bbe68d3",
+        "requires": [
+          "led_matrix",
+          "money_pcb",
+          "led_panel",
+          "amplifier",
+          "amplifier"
+        ]
+      },
+      {
+        "name": "ecb30d7c-015d-45ad-8ba7-5118d9adb526",
+        "requires": [
+          "touchscreen"
+        ]
+      },
+      {
+        "name": "e0f5fa34-f320-48f3-8c94-acb1a52be231",
+        "requires": [
+          "speaker",
+          "money_storage",
+          "pcb"
         ]
       }
     ]
   },
   "juke_components": [
     {
-      "id": 1,
+      "id": "5ca80a633dc4a17697b1c7ff",
       "components": [
         {
-          "name": "audio"
+          "name": "led_panel"
         },
         {
-          "name": "LED array"
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
         }
       ]
     },
     {
-      "name": "LED array"
+      "id": "5ca80a635ee9af095766710d",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
     },
     {
-      "name": "money_receiver"
+      "id": "5ca80a63a0107d1b39f47d58",
+      "components": []
     },
     {
-      "name": "money_storage"
+      "id": "5ca80a6377c55269a948d714",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "led_panel"
+        }
+      ]
     },
     {
-      "name": "money_pcb"
+      "id": "5ca80a63a0a890d900b1579d",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "money_pcb"
+        }
+      ]
     },
     {
-      "name": "led_matrix"
+      "id": "5ca80a63105e851bf7b52d26",
+      "components": [
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "led_panel"
+        }
+      ]
     },
     {
-      "name": "led_panel"
+      "id": "5ca80a6307ee91e5436016e3",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
     },
     {
-      "name": "touchscreen"
+      "id": "5ca80a634300c3bcba2b7750",
+      "components": [
+        {
+          "name": "amplifier"
+        }
+      ]
     },
     {
-      "name": "speaker"
+      "id": "5ca80a63e031e098c098613c",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
     },
     {
-      "name": "pcb"
+      "id": "5ca80a637360b6079e49b369",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
     },
     {
-      "name": "camera"
+      "id": "5ca80a632fc3dddfd1c6628b",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
     },
     {
-      "name": "amplifier"
+      "id": "5ca80a6330b41279313c13c9",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a635c52f868630744e1",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ad19708f5331887d",
+      "components": [
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63e9c0a52bf4955f20",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ba8fe4955a9fae8a",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6389ce27542fa6035a",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6373d4756001ac4501",
+      "components": []
+    },
+    {
+      "id": "5ca80a6326900cc617beaeb7",
+      "components": []
+    },
+    {
+      "id": "5ca80a63e88c7c51fccf6d42",
+      "components": [
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "camera"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6325de523897771396",
+      "components": []
+    },
+    {
+      "id": "5ca80a63ce630fd4cc0bfbaa",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63c66d80eb781ee9c0",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a638ff32545c55462b5",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63a30774489d0de01c",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6322c3f1503d1b756d",
+      "components": [
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "led_panel"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d9655c4ce7637e61",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a639b10ca07dd8019aa",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63a8a38a209fa01df9",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d7ed37b468e83006",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d09bcefc84848454",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a636c5d66c5ca8c751f",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ccb9c361f2b3dbad",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "camera"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6304e0ee37dff1f66e",
+      "components": [
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63f4c4421fa903fe10",
+      "components": [
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63f23fbd000da4792d",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63106f72b328a25e34",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6323bfb1b3287361e0",
+      "components": [
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63f4aa7b3680694a85",
+      "components": [
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63879c461328f63f93",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63e655310edc4347de",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "camera"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a639cac9987038f6c84",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6385e9f438d962da49",
+      "components": [
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63df9cc931a88b1fde",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63a5132c81155cd537",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a636221d07f2699a2e3",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "led_panel"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63fc1c50002212000f",
+      "components": [
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6308c61ef521746d34",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a634e5e6bcc2dc5ca9b",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "money_pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a631911d1cb623cad02",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63478017191e9c2346",
+      "components": [
+        {
+          "name": "led_panel"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a635b4960c101bdcf16",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63280f67aed4566ea1",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d7ba66ec72d6496f",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ec0e49ff431a0e17",
+      "components": []
+    },
+    {
+      "id": "5ca80a63bb33a6ceec7fbf1b",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d83bb5a176089e0d",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a635222a5895b70cf0c",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6309d4343212ff79d9",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63013348d93e94dcf8",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63cb2be9011f8e5c11",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a633b4727f4948d902e",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d233f4b47539e17b",
+      "components": [
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6320942c1566b86054",
+      "components": [
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a631a1bdf45912ba439",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a630218e615e1ab6c9f",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a636e71a24677053b69",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a631bb8ab4f960fc6fb",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a6312e3437b20d848b7",
+      "components": [
+        {
+          "name": "led_panel"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63706666fe96764bb9",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63668c5a197b004aab",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63618af9df7c60e829",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "camera"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63efa7d141dbb478e3",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63790989f56ac7b694",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ae503a93597b0441",
+      "components": [
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a634448229f9b5b9f27",
+      "components": [
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d1eed7176ba58393",
+      "components": [
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a630a432a29438cf3f5",
+      "components": [
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "money_storage"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63b3f25275f3815b25",
+      "components": [
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a630ea70f669ef5af15",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a636f380e8c9f78770d",
+      "components": [
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63e924289c899abd5f",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "camera"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63ca45365bbd96452c",
+      "components": []
+    },
+    {
+      "id": "5ca80a63869c057d147bf7f3",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "speaker"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63576f03309f944187",
+      "components": []
+    },
+    {
+      "id": "5ca80a63605b0dbf41137dc2",
+      "components": []
+    },
+    {
+      "id": "5ca80a632e4fb5bdca69a0b8",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a630b07a9db77cee9ee",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a637632ebb52f0ad3ed",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63b96f6017d1290cab",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a632b16c72e6db68888",
+      "components": []
+    },
+    {
+      "id": "5ca80a6365d73a3146bba927",
+      "components": [
+        {
+          "name": "money_pcb"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "speaker"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63d77ff795910582d2",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "touchscreen"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63f835158ee9ab61b0",
+      "components": [
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63c005a367e365b72c",
+      "components": [
+        {
+          "name": "led_matrix"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63f1e387de915f5279",
+      "components": [
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "touchscreen"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "pcb"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a639fd8824b96ef4d9d",
+      "components": [
+        {
+          "name": "money_receiver"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a63b7f87243573a7143",
+      "components": [
+        {
+          "name": "camera"
+        },
+        {
+          "name": "camera"
+        },
+        {
+          "name": "led_panel"
+        },
+        {
+          "name": "amplifier"
+        },
+        {
+          "name": "amplifier"
+        }
+      ]
+    },
+    {
+      "id": "5ca80a634fadbcaddab74602",
+      "components": []
+    },
+    {
+      "id": "5ca80a631551c4c512d1f039",
+      "components": [
+        {
+          "name": "money_storage"
+        },
+        {
+          "name": "pcb"
+        },
+        {
+          "name": "money_receiver"
+        },
+        {
+          "name": "led_matrix"
+        }
+      ]
     }
   ]
 }
