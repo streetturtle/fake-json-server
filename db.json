@@ -17,6 +17,12 @@
         "requires": [
           "audio"
         ]
+      },
+      {
+        "name": "Currency",
+        "requires": [
+          "money_receiver"
+        ]
       }
     ]
   },
@@ -26,6 +32,36 @@
     },
     {
       "name": "LED array"
+    },
+    {
+      "name": "money_receiver"
+    },
+    {
+      "name": "money_storage"
+    },
+    {
+      "name": "money_pcb"
+    },
+    {
+      "name": "led_matrix"
+    },
+    {
+      "name": "led_panel"
+    },
+    {
+      "name": "touchscreen"
+    },
+    {
+      "name": "speaker"
+    },
+    {
+      "name": "pcb"
+    },
+    {
+      "name": "camera"
+    },
+    {
+      "name": "amplifier"
     }
   ]
 }
