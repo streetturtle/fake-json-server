@@ -1,6 +1,6 @@
 [
   {
-    'repeat(100)': {
+    'repeat(30)': {
       name: '{{guid()}}',
       requires: [
         {
